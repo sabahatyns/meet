@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Button, Text, SafeAreaView, ScrollView, StyleSheet, StatusBar, TextInput, TouchableOpacity, View } from 'react-native';
+import {  Text, SafeAreaView, ScrollView, StyleSheet, StatusBar, TouchableOpacity, View } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import Video from './room';
 const Home = () => {
